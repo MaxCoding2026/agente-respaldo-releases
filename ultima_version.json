@@ -1,0 +1,9 @@
+{
+ "version": "1.2.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.2.0/AgenteRespaldo-1.2.0-actualizable.exe",
+ "sha256": "b992fc4f5a9698ee489eed4bad592ab9f7798c90898c4d2d7f8a1ed01bb7da02",
+ "tamano": 10174557,
+ "fecha": "2026-09-20T12:43:45.832776",
+ "notas": "Primer release real con actualizacion automatica firmada funcionando de punta a punta: opcion 13 (carpetas vacias en el respaldo), progreso en vivo durante copia y verificacion, fix del OverflowError verificando archivos grandes, y el cableado que hace que la opcion 12 se aplique sola.",
+ "firma": "10ba006d91a81a8f120fa6e490a4fbd0ebd0be42dd17e624292174339616fbd4af563383f4b9bb6e292bdd6e26e37c8f74a4b7b10b71f0b08ab5904eca4c7c0f"
+}
