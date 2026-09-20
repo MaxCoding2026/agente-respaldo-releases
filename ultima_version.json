@@ -1,9 +1,9 @@
 {
- "version": "1.2.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.2.0/AgenteRespaldo-1.2.0-actualizable.exe",
- "sha256": "855c46ae6181010c7598277b78a2fff1ca2dfb375028a25948aafb97c549bb7e",
- "tamano": 10176395,
- "fecha": "2026-09-20T12:57:39.865528",
- "notas": "Primer release real con actualizacion automatica firmada funcionando de punta a punta: opcion 13 (carpetas vacias en el respaldo), progreso en vivo durante copia y verificacion, fix del OverflowError verificando archivos grandes, y el cableado que hace que la opcion 12 se aplique sola. (Binario corregido: la primera version de este release tenia un bug de loop infinito en el self-update, encontrado y corregido antes de que nadie la instalara.)",
- "firma": "a3e0b220d84a07e78706608c980b3dffddf9ef7a08cf068608e43d18ccb401ffcf32eea0976fa640a149c1b51c2673e1de1e6e7812f0818a9fe72db9a25f3007"
+ "version": "1.3.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.3.0/AgenteRespaldo-1.3.0-actualizable.exe",
+ "sha256": "f5eed80b18624c818b8f10e34a147399a27d561f79d781819c316bc390feb507",
+ "tamano": 10179529,
+ "fecha": "2026-09-20T20:25:45.747301",
+ "notas": "Configuracion rapida (modo basico): solo 2 preguntas al instalar (donde guardar, que carpetas respaldar), el resto queda con el default recomendado. La primera instalacion ya no puede quedar trabada sin llegar al menu principal.",
+ "firma": "45bc3d0163296de2146b7c577ba057f1e046947c07f9edd618b25eff236ba6ee28df0810d67d343a6b7248e5919eba20de715bd007a5266c11a40c7917d01f0c"
 }
