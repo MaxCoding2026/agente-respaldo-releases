@@ -1,9 +1,9 @@
 {
  "version": "1.2.0",
  "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.2.0/AgenteRespaldo-1.2.0-actualizable.exe",
- "sha256": "b992fc4f5a9698ee489eed4bad592ab9f7798c90898c4d2d7f8a1ed01bb7da02",
- "tamano": 10174557,
- "fecha": "2026-09-20T12:43:45.832776",
- "notas": "Primer release real con actualizacion automatica firmada funcionando de punta a punta: opcion 13 (carpetas vacias en el respaldo), progreso en vivo durante copia y verificacion, fix del OverflowError verificando archivos grandes, y el cableado que hace que la opcion 12 se aplique sola.",
- "firma": "10ba006d91a81a8f120fa6e490a4fbd0ebd0be42dd17e624292174339616fbd4af563383f4b9bb6e292bdd6e26e37c8f74a4b7b10b71f0b08ab5904eca4c7c0f"
+ "sha256": "855c46ae6181010c7598277b78a2fff1ca2dfb375028a25948aafb97c549bb7e",
+ "tamano": 10176395,
+ "fecha": "2026-09-20T12:57:39.865528",
+ "notas": "Primer release real con actualizacion automatica firmada funcionando de punta a punta: opcion 13 (carpetas vacias en el respaldo), progreso en vivo durante copia y verificacion, fix del OverflowError verificando archivos grandes, y el cableado que hace que la opcion 12 se aplique sola. (Binario corregido: la primera version de este release tenia un bug de loop infinito en el self-update, encontrado y corregido antes de que nadie la instalara.)",
+ "firma": "a3e0b220d84a07e78706608c980b3dffddf9ef7a08cf068608e43d18ccb401ffcf32eea0976fa640a149c1b51c2673e1de1e6e7812f0818a9fe72db9a25f3007"
 }
