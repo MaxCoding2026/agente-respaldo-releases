@@ -1,9 +1,9 @@
 {
- "version": "1.5.4",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.4/AgenteRespaldo-1.5.4-actualizable.exe",
- "sha256": "5fa2838c5bc1715bb808568903dc92ec0239e999b88b8bbb9941a9291a555b07",
- "tamano": 16228522,
- "fecha": "2026-09-27T20:08:53.176848",
- "notas": "VERSION.txt ahora se reescribe solo despues de una actualizacion automatica real -- antes quedaba mintiendo la version vieja para siempre (el .exe si se actualizaba bien, pero ese archivo de texto nunca se enteraba).",
- "firma": "b0f7a63ee3680cfe49c940fffe243f9af7a9ab36c8bda94add1d7a5e4b44677e1eb49985fb5a7987e03dad568853a0f2fa628ee2a86b153a6ef4ea25aa000903"
+ "version": "1.5.5",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.5/AgenteRespaldo-1.5.5-actualizable.exe",
+ "sha256": "465986c0fede674e8976862aa618224d2c5902f1a6c0bfbed64aff1092bf9300",
+ "tamano": 16231766,
+ "fecha": "2026-09-27T20:45:49.680401",
+ "notas": "Mas margen de reintento en la copia (robocopy /R:5 /W:10, antes /R:2 /W:5) -- un cliente de sincronizacion de nube (Dropbox, OneDrive) corriendo en segundo plano puede bloquear brevemente un archivo mientras lo sube; el margen anterior no alcanzaba y el respaldo lo reportaba como fallido (codigo 8), tentando a excluir archivos reales por error.",
+ "firma": "8cac5db0db91daf5f23255e1bd8247d85c74914c76485ebde7f336865ffc8d4c15088f5b74550d04805f475a13ebee01f1b133edc38ad7bf763ead34f3c1a700"
 }
