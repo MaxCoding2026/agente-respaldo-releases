@@ -1,9 +1,9 @@
 {
- "version": "1.5.1",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.1/AgenteRespaldo-1.5.1-actualizable.exe",
- "sha256": "b42d807427b4796b4ddd79f442c13cfd05d91c7f65fcfa42f6ca336ee1c1806c",
- "tamano": 16223439,
- "fecha": "2026-09-27T14:35:43.984008",
- "notas": "Un archivo ilegible durante la verificacion (ej. placeholder de Dropbox Smart Sync) ya no revienta toda la corrida de RESPALDAR AHORA -- queda como discrepancia de ese archivo y la corrida sigue con el resto. La estimacion de tamano de Primera configuracion (GUI) ya no reporta un error en la terminal si guardas o navegas de pantalla mientras el calculo de una carpeta grande todavia esta corriendo.",
- "firma": "b612cb95a02dc00084edfc808d866d9448d7a9d99b85c33142a4277714173a1eb15a2de3c93565d4207effd34d30231b5232a4eeb19a5223310efaf8922fa305"
+ "version": "1.5.2",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.2/AgenteRespaldo-1.5.2-actualizable.exe",
+ "sha256": "3c5461c47ed441388335902aded4b78b0ae1d969a843d0bebbae6e6067b982ff",
+ "tamano": 16229204,
+ "fecha": "2026-09-27T16:23:45.687615",
+ "notas": "Pantalla Estado: las filas en ROJO se pintan en rojo y un boton nuevo 'Ver detalle / Resolver' muestra que archivo esta en conflicto y por que, con opcion de excluirlo del trabajo con un clic. En consola, el Asistente (Trabajos -> Editar) tambien permite ahora agregar o quitar exclusiones de un trabajo ya existente.",
+ "firma": "6ebf166100b5bc0795476a5c0b8389ac7b3c6f23cdb76779cd3d3b499566724f2b91a4fcc063deee85469ae37efdd8ce9f2c447739d1d6e9737311ca8a22610b"
 }
