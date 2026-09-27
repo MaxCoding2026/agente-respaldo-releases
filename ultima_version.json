@@ -1,9 +1,9 @@
 {
- "version": "1.5.3",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.3/AgenteRespaldo-1.5.3-actualizable.exe",
- "sha256": "be7658b7ac3d2c8925c94795f748ef2d044048117da2b03b0593aa804e90776b",
- "tamano": 16230814,
- "fecha": "2026-09-27T19:33:01.771798",
- "notas": "Fix real: 'Buscar actualizacion' podia reventar con PermissionError (WinError 5) si el .exe destino quedaba bloqueado un instante (antivirus escaneandolo) justo al reemplazarlo. Ahora ese paso queda protegido -- si falla, simplemente no hay actualizacion lista todavia, sin ensuciar la terminal.",
- "firma": "4803ecf29dd0c3c35ef0df7a0af4f37e82a7b20e93ba1179b19cad2fefdddc6c28d2f7bbb48f64846f13cf0d69213021a59a5a055562cda074268167783fea0e"
+ "version": "1.5.4",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.4/AgenteRespaldo-1.5.4-actualizable.exe",
+ "sha256": "5fa2838c5bc1715bb808568903dc92ec0239e999b88b8bbb9941a9291a555b07",
+ "tamano": 16228522,
+ "fecha": "2026-09-27T20:08:53.176848",
+ "notas": "VERSION.txt ahora se reescribe solo despues de una actualizacion automatica real -- antes quedaba mintiendo la version vieja para siempre (el .exe si se actualizaba bien, pero ese archivo de texto nunca se enteraba).",
+ "firma": "b0f7a63ee3680cfe49c940fffe243f9af7a9ab36c8bda94add1d7a5e4b44677e1eb49985fb5a7987e03dad568853a0f2fa628ee2a86b153a6ef4ea25aa000903"
 }
