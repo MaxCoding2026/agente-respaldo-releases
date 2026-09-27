@@ -1,9 +1,9 @@
 {
- "version": "1.3.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.3.0/AgenteRespaldo-1.3.0-actualizable.exe",
- "sha256": "f5eed80b18624c818b8f10e34a147399a27d561f79d781819c316bc390feb507",
- "tamano": 10179529,
- "fecha": "2026-09-20T20:25:45.747301",
- "notas": "Configuracion rapida (modo basico): solo 2 preguntas al instalar (donde guardar, que carpetas respaldar), el resto queda con el default recomendado. La primera instalacion ya no puede quedar trabada sin llegar al menu principal.",
- "firma": "45bc3d0163296de2146b7c577ba057f1e046947c07f9edd618b25eff236ba6ee28df0810d67d343a6b7248e5919eba20de715bd007a5266c11a40c7917d01f0c"
+ "version": "1.5.1",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.1/AgenteRespaldo-1.5.1-actualizable.exe",
+ "sha256": "b42d807427b4796b4ddd79f442c13cfd05d91c7f65fcfa42f6ca336ee1c1806c",
+ "tamano": 16223439,
+ "fecha": "2026-09-27T14:35:43.984008",
+ "notas": "Un archivo ilegible durante la verificacion (ej. placeholder de Dropbox Smart Sync) ya no revienta toda la corrida de RESPALDAR AHORA -- queda como discrepancia de ese archivo y la corrida sigue con el resto. La estimacion de tamano de Primera configuracion (GUI) ya no reporta un error en la terminal si guardas o navegas de pantalla mientras el calculo de una carpeta grande todavia esta corriendo.",
+ "firma": "b612cb95a02dc00084edfc808d866d9448d7a9d99b85c33142a4277714173a1eb15a2de3c93565d4207effd34d30231b5232a4eeb19a5223310efaf8922fa305"
 }
