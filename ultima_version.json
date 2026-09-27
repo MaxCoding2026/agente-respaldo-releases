@@ -1,9 +1,9 @@
 {
- "version": "1.5.2",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.2/AgenteRespaldo-1.5.2-actualizable.exe",
- "sha256": "3c5461c47ed441388335902aded4b78b0ae1d969a843d0bebbae6e6067b982ff",
- "tamano": 16229204,
- "fecha": "2026-09-27T16:23:45.687615",
- "notas": "Pantalla Estado: las filas en ROJO se pintan en rojo y un boton nuevo 'Ver detalle / Resolver' muestra que archivo esta en conflicto y por que, con opcion de excluirlo del trabajo con un clic. En consola, el Asistente (Trabajos -> Editar) tambien permite ahora agregar o quitar exclusiones de un trabajo ya existente.",
- "firma": "6ebf166100b5bc0795476a5c0b8389ac7b3c6f23cdb76779cd3d3b499566724f2b91a4fcc063deee85469ae37efdd8ce9f2c447739d1d6e9737311ca8a22610b"
+ "version": "1.5.3",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.3/AgenteRespaldo-1.5.3-actualizable.exe",
+ "sha256": "be7658b7ac3d2c8925c94795f748ef2d044048117da2b03b0593aa804e90776b",
+ "tamano": 16230814,
+ "fecha": "2026-09-27T19:33:01.771798",
+ "notas": "Fix real: 'Buscar actualizacion' podia reventar con PermissionError (WinError 5) si el .exe destino quedaba bloqueado un instante (antivirus escaneandolo) justo al reemplazarlo. Ahora ese paso queda protegido -- si falla, simplemente no hay actualizacion lista todavia, sin ensuciar la terminal.",
+ "firma": "4803ecf29dd0c3c35ef0df7a0af4f37e82a7b20e93ba1179b19cad2fefdddc6c28d2f7bbb48f64846f13cf0d69213021a59a5a055562cda074268167783fea0e"
 }
