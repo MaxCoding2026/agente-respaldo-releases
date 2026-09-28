@@ -1,9 +1,9 @@
 {
- "version": "1.5.6",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.6/AgenteRespaldo-1.5.6-actualizable.exe",
- "sha256": "5057e3aaea0bfd6fd90113fdefdac81d59c47f5857559ee0c27bc00f8562783c",
- "tamano": 16232438,
- "fecha": "2026-09-28T07:35:47.404315",
- "notas": "v1.5.6: corrige IndexError al quitar varias exclusiones a la vez y agrega soporte de rangos (ej. 21-40) en el selector multiple de consola.",
- "firma": "8a3890965c913cb73d35eb4e9b78f6d12b01dd2f7d3a63ebc484429ba0841b1091d76148279f6752ae83df33f555f7bb2aceda577d09353ae78da49cea89ce0b"
+ "version": "1.5.7",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.7/AgenteRespaldo-1.5.7-actualizable.exe",
+ "sha256": "8c3287891f3bcf2de65bcc045146ad6272800b45655c03f5e194fd6853ac7f84",
+ "tamano": 16231545,
+ "fecha": "2026-09-28T15:46:26.581370",
+ "notas": "v1.5.7: excluye Dropbox, OneDrive y Google Drive de la Configuracion inicial cuando se elige 'Carpeta de usuario completa' -- ya se respaldan solas contra su propio servidor y son la principal causa de bloqueos momentaneos en robocopy durante la sincronizacion.",
+ "firma": "29a50d7267001be76936afd9fef714fef3a8eb6652227173bd341843a558c68248df974b974030e97ccadba95b15b17b4aae37725de1ac54d1541ad07a0c730c"
 }
