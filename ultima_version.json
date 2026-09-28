@@ -1,9 +1,9 @@
 {
- "version": "1.5.5",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.5/AgenteRespaldo-1.5.5-actualizable.exe",
- "sha256": "465986c0fede674e8976862aa618224d2c5902f1a6c0bfbed64aff1092bf9300",
- "tamano": 16231766,
- "fecha": "2026-09-27T20:45:49.680401",
- "notas": "Mas margen de reintento en la copia (robocopy /R:5 /W:10, antes /R:2 /W:5) -- un cliente de sincronizacion de nube (Dropbox, OneDrive) corriendo en segundo plano puede bloquear brevemente un archivo mientras lo sube; el margen anterior no alcanzaba y el respaldo lo reportaba como fallido (codigo 8), tentando a excluir archivos reales por error.",
- "firma": "8cac5db0db91daf5f23255e1bd8247d85c74914c76485ebde7f336865ffc8d4c15088f5b74550d04805f475a13ebee01f1b133edc38ad7bf763ead34f3c1a700"
+ "version": "1.5.6",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.6/AgenteRespaldo-1.5.6-actualizable.exe",
+ "sha256": "5057e3aaea0bfd6fd90113fdefdac81d59c47f5857559ee0c27bc00f8562783c",
+ "tamano": 16232438,
+ "fecha": "2026-09-28T07:35:47.404315",
+ "notas": "v1.5.6: corrige IndexError al quitar varias exclusiones a la vez y agrega soporte de rangos (ej. 21-40) en el selector multiple de consola.",
+ "firma": "8a3890965c913cb73d35eb4e9b78f6d12b01dd2f7d3a63ebc484429ba0841b1091d76148279f6752ae83df33f555f7bb2aceda577d09353ae78da49cea89ce0b"
 }
