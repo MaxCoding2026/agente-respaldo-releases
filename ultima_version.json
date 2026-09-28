@@ -1,9 +1,9 @@
 {
- "version": "1.5.7",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.7/AgenteRespaldo-1.5.7-actualizable.exe",
- "sha256": "8c3287891f3bcf2de65bcc045146ad6272800b45655c03f5e194fd6853ac7f84",
- "tamano": 16231545,
- "fecha": "2026-09-28T15:46:26.581370",
- "notas": "v1.5.7: excluye Dropbox, OneDrive y Google Drive de la Configuracion inicial cuando se elige 'Carpeta de usuario completa' -- ya se respaldan solas contra su propio servidor y son la principal causa de bloqueos momentaneos en robocopy durante la sincronizacion.",
- "firma": "29a50d7267001be76936afd9fef714fef3a8eb6652227173bd341843a558c68248df974b974030e97ccadba95b15b17b4aae37725de1ac54d1541ad07a0c730c"
+ "version": "1.5.8",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.8/AgenteRespaldo-1.5.8-actualizable.exe",
+ "sha256": "8a757b3ad345f83040ac8844ec90ddb44f4b95b87ef8d44dac1592ec59ab1215",
+ "tamano": 16232461,
+ "fecha": "2026-09-28T16:38:05.838068",
+ "notas": "v1.5.8: si el excluir del trabajo ya reconoce un .env (ej. agregado a mano via Editar trabajo -> Agregar exclusion), el aviso de AMARILLO deja de repetirse en cada corrida. El .env se sigue excluyendo siempre, sin excepcion.",
+ "firma": "14ca658919008dfd240e08d65bab22e03f580c67bb1c7a35f97c3c3dcda30d125d2188728a0590abce46add3d96d5eb2209b7eac8ea4bb928980f7b62d55fe08"
 }
