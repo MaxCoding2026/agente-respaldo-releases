@@ -1,9 +1,9 @@
 {
- "version": "1.5.8",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.8/AgenteRespaldo-1.5.8-actualizable.exe",
- "sha256": "8a757b3ad345f83040ac8844ec90ddb44f4b95b87ef8d44dac1592ec59ab1215",
- "tamano": 16232461,
- "fecha": "2026-09-28T16:38:05.838068",
- "notas": "v1.5.8: si el excluir del trabajo ya reconoce un .env (ej. agregado a mano via Editar trabajo -> Agregar exclusion), el aviso de AMARILLO deja de repetirse en cada corrida. El .env se sigue excluyendo siempre, sin excepcion.",
- "firma": "14ca658919008dfd240e08d65bab22e03f580c67bb1c7a35f97c3c3dcda30d125d2188728a0590abce46add3d96d5eb2209b7eac8ea4bb928980f7b62d55fe08"
+ "version": "1.5.9",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.9/AgenteRespaldo-1.5.9-actualizable.exe",
+ "sha256": "c45aa83b8c95802c66731c02382dcf882a67921ae9c31f9e525f5c4ee087ab58",
+ "tamano": 16243905,
+ "fecha": "2026-09-30T18:28:19.311515",
+ "notas": "Programas instalados (winget): exportar/importar la lista de programas de esta PC hacia un destino ya configurado del respaldo. Disparo siempre manual, nunca entra al ciclo automatico de RESPALDAR AHORA.",
+ "firma": "aa49edf94dbc4dfde938fde9820238daddc9b0a57ddcf36057a3c8132854ba3818243a7b6a7b70225db549149a600c71b3bc95c202c25e3e193953bb880b630f"
 }
