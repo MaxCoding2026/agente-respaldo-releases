@@ -1,9 +1,9 @@
 {
- "version": "1.5.9",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.9/AgenteRespaldo-1.5.9-actualizable.exe",
- "sha256": "c45aa83b8c95802c66731c02382dcf882a67921ae9c31f9e525f5c4ee087ab58",
- "tamano": 16243905,
- "fecha": "2026-09-30T18:28:19.311515",
- "notas": "Programas instalados (winget): exportar/importar la lista de programas de esta PC hacia un destino ya configurado del respaldo. Disparo siempre manual, nunca entra al ciclo automatico de RESPALDAR AHORA.",
- "firma": "aa49edf94dbc4dfde938fde9820238daddc9b0a57ddcf36057a3c8132854ba3818243a7b6a7b70225db549149a600c71b3bc95c202c25e3e193953bb880b630f"
+ "version": "1.5.10",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.10/AgenteRespaldo-1.5.10-actualizable.exe",
+ "sha256": "7e221873fa1666a5089890829ffd17ea9bbd371e038384bb06a63a11a64cb4d0",
+ "tamano": 16245361,
+ "fecha": "2026-09-30T19:04:32.483758",
+ "notas": "Aviso de licencias en Programas instalados (winget): al exportar, avisa siempre que la lista solo reinstala programas de cero -- nunca guarda licencias, claves de producto ni activacion -- y senala por nombre fabricantes conocidos (Office, Adobe, Autodesk, Corel) si aparecen en la lista.",
+ "firma": "06498fbe55a6340b671dab73aec58803ecc30723ef387ef25097e1d01d36d9e32bfb78e2abbc7425941186ca7bdceeb0cf0d4efb0f75c73a71ac9807e2f9560a"
 }
