@@ -1,9 +1,9 @@
 {
- "version": "1.6.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.6.0/AgenteRespaldo-1.6.0-actualizable.exe",
- "sha256": "32b31e549833a47c6945841035c24ccc99be8ef0e1e85cc7258f52e6ddd2b81a",
- "tamano": 16303570,
- "fecha": "2026-10-02T16:51:39.396161",
- "notas": "Respaldo comprimido en .zip incremental (modo zip_incremental): una foto completa y despues solo los cambios, con versiones restaurables por fecha; las PCs de clientes lo usan por defecto en la Configuracion rapida. Imagen de Windows (disco C: completo, via wbadmin): una sola imagen, creada la primera vez y actualizada el ultimo dia de cada mes, con verificacion por montaje de solo lectura. Bloque nuevo en Configuracion, boton Crear imagen ahora y pendrive de recuperacion. Se corrige el texto cortado de avisos en Primera configuracion. zip_diferencial deja de soportarse (reemplazaba la copia completa).",
- "firma": "4da9c3d8b54d1bebe27322f004bb323e4ef773d2637d7a0b8bfc05b66a088210f6be2cea330ef3282be38ae82bbfbdffa56b060245b7a374a38ed930491df201"
+ "version": "1.6.1",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.6.1/AgenteRespaldo-1.6.1-actualizable.exe",
+ "sha256": "33b5cad1d4dee60e540a97f1b83c91d3fecbc63f54b1f3899badc541f6b2494b",
+ "tamano": 16353339,
+ "fecha": "2026-10-02T17:07:19.003828",
+ "notas": "La Guia de Usuario ahora viaja dentro del programa y se actualiza sola junto con el: al arrancar o despues de actualizarse, la guia y VERSION.txt de la carpeta de instalacion pasan a los de la version nueva. Guia al dia: tabla Novedades por version del programa, y secciones nuevas de Programas instalados, Respaldo comprimido en .zip e Imagen de Windows.",
+ "firma": "90a6cbbdc88b973d254a2fe6549ac539e7c24a65c7563071218e30bf2a2fc7648e988310d36500f75f30c36c69fbf9826381cd00f02614ea1ecf5f3a32dd3609"
 }
