@@ -1,9 +1,9 @@
 {
- "version": "1.5.10",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.5.10/AgenteRespaldo-1.5.10-actualizable.exe",
- "sha256": "7e221873fa1666a5089890829ffd17ea9bbd371e038384bb06a63a11a64cb4d0",
- "tamano": 16245361,
- "fecha": "2026-09-30T19:04:32.483758",
- "notas": "Aviso de licencias en Programas instalados (winget): al exportar, avisa siempre que la lista solo reinstala programas de cero -- nunca guarda licencias, claves de producto ni activacion -- y senala por nombre fabricantes conocidos (Office, Adobe, Autodesk, Corel) si aparecen en la lista.",
- "firma": "06498fbe55a6340b671dab73aec58803ecc30723ef387ef25097e1d01d36d9e32bfb78e2abbc7425941186ca7bdceeb0cf0d4efb0f75c73a71ac9807e2f9560a"
+ "version": "1.6.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.6.0/AgenteRespaldo-1.6.0-actualizable.exe",
+ "sha256": "32b31e549833a47c6945841035c24ccc99be8ef0e1e85cc7258f52e6ddd2b81a",
+ "tamano": 16303570,
+ "fecha": "2026-10-02T16:51:39.396161",
+ "notas": "Respaldo comprimido en .zip incremental (modo zip_incremental): una foto completa y despues solo los cambios, con versiones restaurables por fecha; las PCs de clientes lo usan por defecto en la Configuracion rapida. Imagen de Windows (disco C: completo, via wbadmin): una sola imagen, creada la primera vez y actualizada el ultimo dia de cada mes, con verificacion por montaje de solo lectura. Bloque nuevo en Configuracion, boton Crear imagen ahora y pendrive de recuperacion. Se corrige el texto cortado de avisos en Primera configuracion. zip_diferencial deja de soportarse (reemplazaba la copia completa).",
+ "firma": "4da9c3d8b54d1bebe27322f004bb323e4ef773d2637d7a0b8bfc05b66a088210f6be2cea330ef3282be38ae82bbfbdffa56b060245b7a374a38ed930491df201"
 }
