@@ -1,9 +1,9 @@
 {
- "version": "1.6.1",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.6.1/AgenteRespaldo-1.6.1-actualizable.exe",
- "sha256": "33b5cad1d4dee60e540a97f1b83c91d3fecbc63f54b1f3899badc541f6b2494b",
- "tamano": 16353339,
- "fecha": "2026-10-02T17:07:19.003828",
- "notas": "La Guia de Usuario ahora viaja dentro del programa y se actualiza sola junto con el: al arrancar o despues de actualizarse, la guia y VERSION.txt de la carpeta de instalacion pasan a los de la version nueva. Guia al dia: tabla Novedades por version del programa, y secciones nuevas de Programas instalados, Respaldo comprimido en .zip e Imagen de Windows.",
- "firma": "90a6cbbdc88b973d254a2fe6549ac539e7c24a65c7563071218e30bf2a2fc7648e988310d36500f75f30c36c69fbf9826381cd00f02614ea1ecf5f3a32dd3609"
+ "version": "1.6.2",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.6.2/AgenteRespaldo-1.6.2-actualizable.exe",
+ "sha256": "b73727d4b47050a49273067f2e6395348ac9ba3c58b96a837644967aa97fc1a3",
+ "tamano": 16355961,
+ "fecha": "2026-10-02T20:17:58.055257",
+ "notas": "Ya no aparece la ventana negra de consola al encender la PC: la tarea programada ahora arranca el programa sin ventana. Las PCs con la tarea ya creada la corrigen solas la primera vez que se abre el programa tras actualizar (Windows pide permiso una vez).",
+ "firma": "162bc80947dc992e9c9f621d2604f548c59eb91372685766e69a18db4ac632a940fe9caab0a2dc13b034279a83c5391ea4a2d4f25c538538ec954a9050563203"
 }
