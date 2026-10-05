@@ -1,9 +1,9 @@
 {
- "version": "1.7.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.7.0/AgenteRespaldo-1.7.0-actualizable.exe",
- "sha256": "f25f68c897e0ac61641fc5bc95afe75605cb949aa495e014e9de4a663e7b984e",
- "tamano": 16381978,
- "fecha": "2026-10-05T18:24:56.639789",
- "notas": "Punto de restauracion de Windows cada 7 dias y antes de importar programas (Configuracion/Sistema > Punto de restauracion de Windows).",
- "firma": "2a5aca2a591e88a8172c40baaabd267b46a16a6d52e733b852ec789751e1d02c3b216f53502bc32595285a6e42e3b232521bff641417d98f187e6d6209b24c00"
+ "version": "1.7.1",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.7.1/AgenteRespaldo-1.7.1-actualizable.exe",
+ "sha256": "f94792bcad14cebce0f30b1fe316e77ade646f053110643174c319cb11866bcd",
+ "tamano": 16383666,
+ "fecha": "2026-10-05T18:47:18.081938",
+ "notas": "Punto de restauracion: al activarlo ya no achica el espacio que Windows tenia reservado (solo lo sube si habia menos de 2 GB); el estado se actualiza solo al cerrar la ventana de permiso; la casilla de Primera configuracion ya no aparece marcada en PCs con respaldos configurados.",
+ "firma": "c1794ee84813d0941fe0039821735990144cba6dfe4f8b53b022c8b6ec322f284ed181c33e2533295a6ea0119044e0971afbc1dda2415c62e57397281085260a"
 }
