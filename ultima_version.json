@@ -1,9 +1,9 @@
 {
- "version": "1.7.1",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.7.1/AgenteRespaldo-1.7.1-actualizable.exe",
- "sha256": "f94792bcad14cebce0f30b1fe316e77ade646f053110643174c319cb11866bcd",
- "tamano": 16383666,
- "fecha": "2026-10-05T18:47:18.081938",
- "notas": "Punto de restauracion: al activarlo ya no achica el espacio que Windows tenia reservado (solo lo sube si habia menos de 2 GB); el estado se actualiza solo al cerrar la ventana de permiso; la casilla de Primera configuracion ya no aparece marcada en PCs con respaldos configurados.",
- "firma": "c1794ee84813d0941fe0039821735990144cba6dfe4f8b53b022c8b6ec322f284ed181c33e2533295a6ea0119044e0971afbc1dda2415c62e57397281085260a"
+ "version": "1.8.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.0/AgenteRespaldo-1.8.0-actualizable.exe",
+ "sha256": "d8b83c08438ba6e61be23a4e5dcac053abfd987666da96776418ffa800b63908",
+ "tamano": 13819401,
+ "fecha": "2026-10-13T17:43:05.275363",
+ "notas": "Diagnosticar la PC (opcion 15 y pantalla Diagnostico): antes de cada respaldo se revisa la salud de los discos; un disco de respaldo con falla deja de recibir copias, y si falla el disco de la PC se ofrece el Respaldo de rescate (carpeta aparte, una sola lectura, nunca pisa la copia normal). Diagnostico completo con zip para soporte. Correccion: una carpeta que no se puede leer ya no se da por borrada.",
+ "firma": "32b3fc273dc9a7c539dacd50b44297c027cb5cfac521244ebd1869c5560cb93b3cd942ec5bc6e6dab2f73f1436c67aabf6f6e77332b0e6d2911e37cb92b78804"
 }
