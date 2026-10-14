@@ -1,9 +1,9 @@
 {
- "version": "1.8.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.0/AgenteRespaldo-1.8.0-actualizable.exe",
- "sha256": "d8b83c08438ba6e61be23a4e5dcac053abfd987666da96776418ffa800b63908",
- "tamano": 13819401,
- "fecha": "2026-10-13T17:43:05.275363",
- "notas": "Diagnosticar la PC (opcion 15 y pantalla Diagnostico): antes de cada respaldo se revisa la salud de los discos; un disco de respaldo con falla deja de recibir copias, y si falla el disco de la PC se ofrece el Respaldo de rescate (carpeta aparte, una sola lectura, nunca pisa la copia normal). Diagnostico completo con zip para soporte. Correccion: una carpeta que no se puede leer ya no se da por borrada.",
- "firma": "32b3fc273dc9a7c539dacd50b44297c027cb5cfac521244ebd1869c5560cb93b3cd942ec5bc6e6dab2f73f1436c67aabf6f6e77332b0e6d2911e37cb92b78804"
+ "version": "1.8.2",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.2/AgenteRespaldo-1.8.2-actualizable.exe",
+ "sha256": "52f5f0aeadd8c1ebea8e856c1e02dc71de414967ccfdbf6a06201ab2835baa5a",
+ "tamano": 13831076,
+ "fecha": "2026-10-13T22:18:59.051348",
+ "notas": "1.8.2: progreso con porcentaje y tiempo restante; un disco de destino que deja de escribir queda en ROJO sin cortar la corrida (error en LOGS); boton Ya repare este disco (1.8.1).",
+ "firma": "6d6c2477f1bbf315c45ed57220aa8ed1e2ea8eb55fa947a1665bc999b6117f7a419657fcc7599e62326cd0540ae88eb471cd9a30d7ad29a762a966640958a909"
 }
