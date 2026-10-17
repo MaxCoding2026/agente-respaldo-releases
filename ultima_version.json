@@ -1,9 +1,9 @@
 {
- "version": "1.8.2",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.2/AgenteRespaldo-1.8.2-actualizable.exe",
- "sha256": "52f5f0aeadd8c1ebea8e856c1e02dc71de414967ccfdbf6a06201ab2835baa5a",
- "tamano": 13831076,
- "fecha": "2026-10-13T22:18:59.051348",
- "notas": "1.8.2: progreso con porcentaje y tiempo restante; un disco de destino que deja de escribir queda en ROJO sin cortar la corrida (error en LOGS); boton Ya repare este disco (1.8.1).",
- "firma": "6d6c2477f1bbf315c45ed57220aa8ed1e2ea8eb55fa947a1665bc999b6117f7a419657fcc7599e62326cd0540ae88eb471cd9a30d7ad29a762a966640958a909"
+ "version": "1.8.3",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.3/AgenteRespaldo-1.8.3-actualizable.exe",
+ "sha256": "0993fe8160faa313f487a69c042c271758f74f878acedb1ad837ddb1541296ad",
+ "tamano": 16472486,
+ "fecha": "2026-10-17T12:54:48.765927",
+ "notas": "Con el disco de respaldo desconectado el aviso ahora dice Respaldo NO realizado (nunca sin errores); la tarea programada reintenta cada 1 h durante 6 h y avisa mas fuerte tras 2 dias sin copia. RESPALDAR AHORA copia en el momento todos los trabajos. Arregla que la copia diaria se salteara un dia. Un disco desconectado a mitad de la copia se informa con motivo claro.",
+ "firma": "da20b214cf80bac92902800920eb11d33a1a1e05b77637e45cfcee1b7dded0570d5c1e264ffd1c9b74130b170f522ef129b2eb5a419d07cd19e4c4345b93ee06"
 }
