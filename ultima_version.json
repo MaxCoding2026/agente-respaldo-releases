@@ -1,9 +1,9 @@
 {
- "version": "1.8.3",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.8.3/AgenteRespaldo-1.8.3-actualizable.exe",
- "sha256": "0993fe8160faa313f487a69c042c271758f74f878acedb1ad837ddb1541296ad",
- "tamano": 16472486,
- "fecha": "2026-10-17T12:54:48.765927",
- "notas": "Con el disco de respaldo desconectado el aviso ahora dice Respaldo NO realizado (nunca sin errores); la tarea programada reintenta cada 1 h durante 6 h y avisa mas fuerte tras 2 dias sin copia. RESPALDAR AHORA copia en el momento todos los trabajos. Arregla que la copia diaria se salteara un dia. Un disco desconectado a mitad de la copia se informa con motivo claro.",
- "firma": "da20b214cf80bac92902800920eb11d33a1a1e05b77637e45cfcee1b7dded0570d5c1e264ffd1c9b74130b170f522ef129b2eb5a419d07cd19e4c4345b93ee06"
+ "version": "1.9.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.9.0/AgenteRespaldo-1.9.0-actualizable.exe",
+ "sha256": "341624ec3519d035fb9246e23ba46281b857dc80a0914dc1cdd5b7a44c6d9d71",
+ "tamano": 16528695,
+ "fecha": "2026-10-17T13:29:27.578931",
+ "notas": "El programa pasa a llamarse Respaldo (ventana, icono del menu y VERSION.txt dicen la version; el icono viejo Agente Respaldo se renombra solo). Cada zip deja un archivo .zip.txt con lo que contiene y que zips hacen falta para restaurar (con cifrado, solo totales). Nuevo informe por correo cada 15 dias con el estado de los respaldos, sin nombres de archivos ni de carpetas.",
+ "firma": "a36158fd79c4c9eace2ac6af9e94c86b5b536d81702cf571c78886e96d270e73affe94c31e31be62eaa8fab544c1a39e960c9d4246557f523bd001cc50aef208"
 }
