@@ -1,9 +1,9 @@
 {
- "version": "1.9.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.9.0/AgenteRespaldo-1.9.0-actualizable.exe",
- "sha256": "341624ec3519d035fb9246e23ba46281b857dc80a0914dc1cdd5b7a44c6d9d71",
- "tamano": 16528695,
- "fecha": "2026-10-17T13:29:27.578931",
- "notas": "El programa pasa a llamarse Respaldo (ventana, icono del menu y VERSION.txt dicen la version; el icono viejo Agente Respaldo se renombra solo). Cada zip deja un archivo .zip.txt con lo que contiene y que zips hacen falta para restaurar (con cifrado, solo totales). Nuevo informe por correo cada 15 dias con el estado de los respaldos, sin nombres de archivos ni de carpetas.",
- "firma": "a36158fd79c4c9eace2ac6af9e94c86b5b536d81702cf571c78886e96d270e73affe94c31e31be62eaa8fab544c1a39e960c9d4246557f523bd001cc50aef208"
+ "version": "1.10.0",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.10.0/AgenteRespaldo-1.10.0-actualizable.exe",
+ "sha256": "a823ff8c75b90959bce707bbb7f900f7eb6bbc1916b32087162ce5c38a2ea5e2",
+ "tamano": 17529483,
+ "fecha": "2026-10-17T19:27:07.550369",
+ "notas": "Respaldo V 1.10.0: restaurar solo una parte (aplicacion, carpeta o archivo), pantalla Buscar y opcion 16 (buscador de archivos en todo lo respaldado), Respaldar un trabajo y copia suelta. Incluye 1.9.1 (informe por correo con categorias claras).",
+ "firma": "ede7fd4b921db665ac3197073a6da2e66ca43e421e5263fb39339b86212865988a85a74714f885d374a569ca454cefbfe16ab166bdd3afd58394e975c6b82a0e"
 }
