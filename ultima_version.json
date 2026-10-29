@@ -1,9 +1,9 @@
 {
- "version": "1.10.0",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.10.0/AgenteRespaldo-1.10.0-actualizable.exe",
- "sha256": "a823ff8c75b90959bce707bbb7f900f7eb6bbc1916b32087162ce5c38a2ea5e2",
- "tamano": 17529483,
- "fecha": "2026-10-17T19:27:07.550369",
- "notas": "Respaldo V 1.10.0: restaurar solo una parte (aplicacion, carpeta o archivo), pantalla Buscar y opcion 16 (buscador de archivos en todo lo respaldado), Respaldar un trabajo y copia suelta. Incluye 1.9.1 (informe por correo con categorias claras).",
- "firma": "ede7fd4b921db665ac3197073a6da2e66ca43e421e5263fb39339b86212865988a85a74714f885d374a569ca454cefbfe16ab166bdd3afd58394e975c6b82a0e"
+ "version": "1.10.1",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.10.1/AgenteRespaldo-1.10.1-actualizable.exe",
+ "sha256": "088880ea392ee69904f16b1823116222dd54585579499f3e0c9d536ccf445ea0",
+ "tamano": 17533899,
+ "fecha": "2026-10-28T23:31:38.255097",
+ "notas": "Respaldo V 1.10.1: corrige el ROJO falso (FALTA en destino) cuando una carpeta respaldada contiene un junction de Windows; el recorrido de la fuente ahora omite los junctions igual que la copia (robocopy /XJ).",
+ "firma": "292b3b31bc57a73d3b018a66da202d0b27ccfb83d2e686dd73565e15892b1389c00aa248ebd87ec050bda031a9e3a9d5f8a8f5f4392d978bfff29daf9d9ad209"
 }
