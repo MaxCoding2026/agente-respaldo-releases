@@ -1,9 +1,9 @@
 {
- "version": "1.10.1",
- "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.10.1/AgenteRespaldo-1.10.1-actualizable.exe",
- "sha256": "088880ea392ee69904f16b1823116222dd54585579499f3e0c9d536ccf445ea0",
- "tamano": 17533899,
- "fecha": "2026-10-28T23:31:38.255097",
- "notas": "Respaldo V 1.10.1: corrige el ROJO falso (FALTA en destino) cuando una carpeta respaldada contiene un junction de Windows; el recorrido de la fuente ahora omite los junctions igual que la copia (robocopy /XJ).",
- "firma": "292b3b31bc57a73d3b018a66da202d0b27ccfb83d2e686dd73565e15892b1389c00aa248ebd87ec050bda031a9e3a9d5f8a8f5f4392d978bfff29daf9d9ad209"
+ "version": "1.10.2",
+ "url_exe": "https://github.com/MaxCoding2026/agente-respaldo-releases/releases/download/v1.10.2/AgenteRespaldo-1.10.2-actualizable.exe",
+ "sha256": "8983c0031770809235e938aa951531428d13775b36f632e2888e5f313f7b3a52",
+ "tamano": 17550340,
+ "fecha": "2026-11-01T17:05:39.266349",
+ "notas": "Respaldo V 1.10.2: seguridad. La carpeta de instalacion queda protegida (si tu instalacion es anterior, el programa te avisa como corregirla), las actualizaciones se vuelven a verificar antes de aplicarse, la tarea del informe ya no usa permisos de administrador y las claves de ZIP exigen 12 caracteres.",
+ "firma": "aadb4fbe565aabe184a3615ae6febd8974670fff74939437c9324fadf9e7f14fe33b2ef7392b3e3aeea19fae8576638af2b4118c75e22ad854f1e0fde32a4902"
 }
